@@ -4,6 +4,7 @@
 
 <p align="left">
 Aprendendo a programar e amando, estou me aprofundando e estudando tecnologias sempre que posso. 🐥 
+Futuro desenvolvedor back-end 🤖
 </p>
 
 ###
