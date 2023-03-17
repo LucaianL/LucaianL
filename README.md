@@ -6,7 +6,7 @@
 Aprendendo a programar e amando, estou me aprofundando e estudando tecnologias sempre que posso. 🐥 
 </p>
 <p align="left">
-Futuro desenvolvedor back-end! 🤖
+Futuro desenvolvedor front-end! 🤖
 </p>
 
 ###
