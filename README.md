@@ -3,10 +3,7 @@
 ### 
 
 <p align="left">
-Aprendendo a programar e amando, estou me aprofundando e estudando tecnologias sempre que posso. 🐥 
-</p>
-<p align="left">
-Futuro desenvolvedor front-end! 🤖
+Estou me aprofundando e estudando tecnologias sempre que posso. 
 </p>
 
 ###
